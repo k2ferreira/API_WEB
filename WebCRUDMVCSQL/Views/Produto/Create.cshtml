@@ -1,0 +1,32 @@
+﻿@model WebCRUDMVCSQL.Models.Produtos
+
+@{
+}
+
+<h2>Formulário para cadastro de produto</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.NomeProduto, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.NomeProduto,
+        new { @class = "form-control", @placeholder = "Nome do produto" })
+            @Html.ValidationMessageFor(m => m.NomeProduto, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Salvar Produto" class="btn btn-success" />
+            @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-danger" })
+        </div>
+    </div>
+
+    <div>
+        @Html.ActionLink("Voltar" , "Index")
+    </div>
+
+
+}

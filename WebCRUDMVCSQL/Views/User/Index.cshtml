@@ -1,0 +1,35 @@
+﻿@model IEnumerable<WebCRUDMVCSQL.Models.USUARIOS>
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NOME_USUARIO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Senha)
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NOME_USUARIO)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Senha)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.ID_USUARIO }) |
+                @Html.ActionLink("Details", "Details", new { id=item.ID_USUARIO }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID_USUARIO})
+            </td>
+        </tr>
+
+    }
+</table>
