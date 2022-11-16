@@ -68,18 +68,32 @@ namespace WebCRUDMVCSQL.Controllers
         {
             return View();
         }
-        public IActionResult ProcessarLogin( USUARIOS _UsuarioModel)
+        //public IActionResult ProcessarLogin( USUARIOS _UsuarioModel)
+        //         {
+
+        //            var data = _Contexto.Usuario.Where(s => s.NOME_USUARIO.Equals(_UsuarioModel.NOME_USUARIO) && s.Senha.Equals(_UsuarioModel.Senha)).ToList();
+        //            if (data.Count > 0 )
+        //            {
+        //               ViewBag.UsuarioLogado = _UsuarioModel.NOME_USUARIO;
+        //                return View("Administrador", _UsuarioModel);
+        //    }
+        //    ViewBag.msg = "Erro de login";
+
+        //            return View("../Home/Index", _UsuarioModel);
+        //}
+        [HttpPost]
+        public ActionResult ProcessarLogin(string NOME_USUARIO, string Senha)
         {
 
-            var data = _Contexto.Usuario.Where(s => s.NOME_USUARIO.Equals(_UsuarioModel.NOME_USUARIO) && s.Senha.Equals(_UsuarioModel.Senha)).ToList();
+            var data = _Contexto.Usuario.Where(s => s.NOME_USUARIO.Equals(NOME_USUARIO) && s.Senha.Equals(Senha)).ToList();
             if ( data.Count > 0 )
             {
-               ViewBag.UsuarioLogado = _UsuarioModel.NOME_USUARIO;
-                return View("Administrador", _UsuarioModel);
+               ViewBag.UsuarioLogado = NOME_USUARIO;
+                return View("Administrador");
             }
             ViewBag.msg = "Erro de login";
           
-            return View("../Home/Index", _UsuarioModel);
+            return View("../Home/Index");
         }
 
 
