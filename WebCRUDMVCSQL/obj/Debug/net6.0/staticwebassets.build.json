@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "43qlRZygnpTc2SsbcwfRT5kr6Bi2SLwjbDWUpBWxefI=",
+  "Hash": "sTj5YmCLplH2EDUtHwXsOxgwEtek3Eexp5Voj3hSmkA=",
   "Source": "WebCRUDMVCSQL",
   "BasePath": "_content/WebCRUDMVCSQL",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\image\\criar-site.png"
+    },
+    {
+      "Identity": "C:\\Users\\k2fer\\Source\\Repos\\API_WEB\\WebCRUDMVCSQL\\wwwroot\\image\\ecomerce.webp",
+      "SourceId": "WebCRUDMVCSQL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\k2fer\\Source\\Repos\\API_WEB\\WebCRUDMVCSQL\\wwwroot\\",
+      "BasePath": "_content/WebCRUDMVCSQL",
+      "RelativePath": "image/ecomerce.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\ecomerce.webp"
     },
     {
       "Identity": "C:\\Users\\k2fer\\Source\\Repos\\API_WEB\\WebCRUDMVCSQL\\wwwroot\\image\\seguranca.jpg",
