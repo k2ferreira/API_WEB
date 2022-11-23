@@ -524,3 +524,4 @@ C:\Users\k2fer\Source\Repos\API_WEB\WebCRUDMVCSQL\obj\Debug\net6.0\refint\WebCRU
 C:\Users\k2fer\Source\Repos\API_WEB\WebCRUDMVCSQL\obj\Debug\net6.0\WebCRUDMVCSQL.pdb
 C:\Users\k2fer\Source\Repos\API_WEB\WebCRUDMVCSQL\obj\Debug\net6.0\WebCRUDMVCSQL.genruntimeconfig.cache
 C:\Users\k2fer\Source\Repos\API_WEB\WebCRUDMVCSQL\obj\Debug\net6.0\ref\WebCRUDMVCSQL.dll
+C:\Users\k2fer\Source\Repos\API_WEB\WebCRUDMVCSQL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
