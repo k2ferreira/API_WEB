@@ -1,7 +1,5 @@
 ﻿@model IEnumerable<WebCRUDMVCSQL.Models.Produtos>
 
-<h2>Index</h2>
-
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
@@ -33,3 +31,15 @@
 
     }
 </table>
+
+@*@Html.ActionLink("Gerar XML", "GerarXML")*@
+
+<input type="button" value="Gerar XML" onclick="location.href='@Url.Action("GerarXML", "Produto")'" />
+
+@*@Html.ActionLink("Baixar Arquivo XML", "Download")*@
+
+
+
+
+
+<input type="button" value="Baixar XML" onclick="location.href='@Url.Action("Download", "Produto")'" />
