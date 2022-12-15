@@ -9825,11 +9825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k2fer\\Source\\Repos\\API_WEB\\WebCRUDMVCSQL\\WebCRUDMVCSQL.csproj",
+      "projectUniqueName": "C:\\Users\\k2fer\\Source\\Repos\\k2ferreira\\API_WEB\\WebCRUDMVCSQL\\WebCRUDMVCSQL.csproj",
       "projectName": "WebCRUDMVCSQL",
-      "projectPath": "C:\\Users\\k2fer\\Source\\Repos\\API_WEB\\WebCRUDMVCSQL\\WebCRUDMVCSQL.csproj",
+      "projectPath": "C:\\Users\\k2fer\\Source\\Repos\\k2ferreira\\API_WEB\\WebCRUDMVCSQL\\WebCRUDMVCSQL.csproj",
       "packagesPath": "C:\\Users\\k2fer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k2fer\\Source\\Repos\\API_WEB\\WebCRUDMVCSQL\\obj\\",
+      "outputPath": "C:\\Users\\k2fer\\Source\\Repos\\k2ferreira\\API_WEB\\WebCRUDMVCSQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9898,7 +9898,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

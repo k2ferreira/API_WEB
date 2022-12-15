@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AHSAsm2Vcil63cwAp430rXJXEp92YuE1yZT+AVm6C2I1giVPLgSWpKvkeNBMKPPqPbvES0Tcgl8NUeCds/FA/g==",
+  "dgSpecHash": "tgy6RSFMxvE7b+zd76uxWUzk8fg3RSFtQ7kd7Jm8KU8bhQ+L5C1TxLyRX1FoiVfVpvonBbhnqt1UcKiVU61cwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\k2fer\\Source\\Repos\\API_WEB\\WebCRUDMVCSQL\\WebCRUDMVCSQL.csproj",
+  "projectFilePath": "C:\\Users\\k2fer\\Source\\Repos\\k2ferreira\\API_WEB\\WebCRUDMVCSQL\\WebCRUDMVCSQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\k2fer\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\k2fer\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
