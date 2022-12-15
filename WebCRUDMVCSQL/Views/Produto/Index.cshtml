@@ -1,4 +1,4 @@
-﻿@model IEnumerable<WebCRUDMVCSQL.Models.Produtos>
+﻿@model IEnumerable<WebCRUDMVCSQL.Models.Produto>
 
 <h2>Index</h2>
 
@@ -12,7 +12,7 @@
             @Html.DisplayNameFor(model => model.ID)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.NomeProduto)
+            @Html.DisplayNameFor(model => model.NOMEPRODUTO)
         </th>
     </tr>
     @foreach (var item in Model)
@@ -22,7 +22,7 @@
                 @Html.DisplayFor(modelItem => item.ID)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.NomeProduto)
+                @Html.DisplayFor(modelItem => item.NOMEPRODUTO)
             </td>
             <td>
                 @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |

@@ -13,7 +13,7 @@ namespace WebCRUDMVCSQL.Models
         }
 
         public DbSet<USUARIOS>  Usuario { get; set; }
-        public DbSet<Produtos> Produto { get; set; }
+        public DbSet<Produto> Produto { get; set; }
 
       
     }

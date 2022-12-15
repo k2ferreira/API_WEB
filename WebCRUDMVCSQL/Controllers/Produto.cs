@@ -27,7 +27,7 @@ namespace WebCRUDMVCSQL.Controllers
         }
 
         [HttpPost]
-        public ActionResult Create(Models.Produtos produto)
+        public ActionResult Create(Models.Produto produto)
         {
 
             if (ModelState.IsValid)

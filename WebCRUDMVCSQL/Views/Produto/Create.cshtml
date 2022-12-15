@@ -1,4 +1,4 @@
-﻿@model WebCRUDMVCSQL.Models.Produtos
+﻿@model WebCRUDMVCSQL.Models.Produto
 
 @{
 }
@@ -10,11 +10,11 @@
     @Html.AntiForgeryToken()
 
     <div class="form-group">
-        @Html.LabelFor(m => m.NomeProduto, new { @class = "control-label col-md-2" })
+        @Html.LabelFor(m => m.NOMEPRODUTO, new { @class = "control-label col-md-2" })
         <div class="col-md-10">
-            @Html.TextBoxFor(m => m.NomeProduto,
+            @Html.TextBoxFor(m => m.NOMEPRODUTO,
         new { @class = "form-control", @placeholder = "Nome do produto" })
-            @Html.ValidationMessageFor(m => m.NomeProduto, "", new { @class = "text-danger" })
+            @Html.ValidationMessageFor(m => m.NOMEPRODUTO, "", new { @class = "text-danger" })
         </div>
     </div>
     <div class="form-group">
