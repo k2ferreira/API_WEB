@@ -5,64 +5,65 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebCRUDMVCSQL
 build_property.RootNamespace = WebCRUDMVCSQL
-build_property.ProjectDir = C:\Users\k2fer\Source\Repos\API_WEB\WebCRUDMVCSQL\
+build_property.ProjectDir = C:\Users\k2fer\Source\Repos\k2ferreira\API_WEB\WebCRUDMVCSQL\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\k2fer\Source\Repos\API_WEB\WebCRUDMVCSQL
+build_property.MSBuildProjectDirectory = C:\Users\k2fer\Source\Repos\k2ferreira\API_WEB\WebCRUDMVCSQL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/Home/Index.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/Home/Privacy.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/Login/Administrador.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/Login/Administrador.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWRtaW5pc3RyYWRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/Login/Index.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/Produto/Create.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/Produto/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/Produto/Index.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/Produto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/Shared/Error.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/User/Index.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/User/Login.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/_ViewImports.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/_ViewStart.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/k2fer/Source/Repos/API_WEB/WebCRUDMVCSQL/Views/Shared/_Layout.cshtml]
+[C:/Users/k2fer/Source/Repos/k2ferreira/API_WEB/WebCRUDMVCSQL/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lkuvny9ymn
